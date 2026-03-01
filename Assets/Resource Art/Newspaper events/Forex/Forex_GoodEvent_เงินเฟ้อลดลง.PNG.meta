@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 144d1121e6f69504b9beb38e6f355874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6111663405981804905
+    second: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_0"
+  - first:
+      213: -7812751428196580833
+    second: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_1"
+  - first:
+      213: -2385189292593602611
+    second: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_2"
+  - first:
+      213: 5543003204861659755
+    second: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_3"
+  - first:
+      213: 3885702013542621550
+    second: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_0"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1206
+        width: 494
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ac4c9c7df0d450800000000000000
+      internalID: 6111663405981804905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_1"
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1219
+        width: 494
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12cae348f7839390800000000000000
+      internalID: -7812751428196580833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_2"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 1152
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf94e4c9fa16eed0800000000000000
+      internalID: -2385189292593602611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_3"
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 805
+        width: 359
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a81a6fb04bcec40800000000000000
+      internalID: 5543003204861659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_4"
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 74
+        width: 705
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e616a3cd469cce530800000000000000
+      internalID: 3885702013542621550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_0": 6111663405981804905
+      "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_1": -7812751428196580833
+      "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_2": -2385189292593602611
+      "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_3": 5543003204861659755
+      "Forex_GoodEvent_\u0E40\u0E07\u0E34\u0E19\u0E40\u0E1F\u0E49\u0E2D\u0E25\u0E14\u0E25\u0E07_4": 3885702013542621550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

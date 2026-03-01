@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d672af2e0092b6468942291615261b1, type: 3}
+  m_Name: BankInvestment
+  m_EditorClassIdentifier: 
+  companyName: Bank
+  descriptionAssets: "\u0E43\u0E2B\u0E49\u0E1C\u0E25\u0E15\u0E2D\u0E1A\u0E41\u0E17\u0E19\u0E08\u0E32\u0E01
+    \u0E14\u0E2D\u0E01\u0E40\u0E1A\u0E35\u0E49\u0E22\u0E2A\u0E21\u0E48\u0E33\u0E40\u0E2A\u0E21\u0E2D
+    \u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\u0E48\u0E22\u0E07\u0E15\u0E48\u0E33\u0E01\u0E27\u0E48\u0E32\u0E2A\u0E34\u0E19\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E4C\u0E2D\u0E37\u0E48\u0E19\n\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E01\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E25\u0E07\u0E17\u0E38\u0E19
+    \u0E23\u0E30\u0E22\u0E30\u0E2A\u0E31\u0E49\u0E19\u0E16\u0E36\u0E07\u0E01\u0E25\u0E32\u0E07
+    \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E17\u0E35\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E04\u0E27\u0E32\u0E21\u0E21\u0E31\u0E48\u0E19\u0E04\u0E07"
+  companyIcon: {fileID: -7368477110438835841, guid: 7055f428daf5a744e86ba3670e88b625, type: 3}
+  goodEvents: []
+  badEvents: []
+  subAssets:
+  - assetName: "\u0E40\u0E07\u0E34\u0E19\u0E1D\u0E32\u0E01\u0E18\u0E19\u0E32\u0E04\u0E32\u0E23"
+    assetNameAbbreviation: Bank
+    currentPrice: 1
+    minPrice: 1.5
+    maxPrice: 1.5
+    assetIcon: {fileID: 21300000, guid: 8ca05b79d5b10ed438a6bff957f6df7f, type: 3}
+    typesOfAssets: 
+    description: 
+    risk: 0
+  companyType: 1

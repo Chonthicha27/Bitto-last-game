@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: e44078d0cb297fb49b96e419c93d7346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2054060421117812954
+    second: Noble_Development_logo-removebg-preview_0
+  - first:
+      213: 9210838894296195274
+    second: Noble_Development_logo-removebg-preview_1
+  - first:
+      213: 5208027830698724046
+    second: Noble_Development_logo-removebg-preview_2
+  - first:
+      213: 5917038738927931982
+    second: Noble_Development_logo-removebg-preview_3
+  - first:
+      213: -8504733459014091571
+    second: Noble_Development_logo-removebg-preview_4
+  - first:
+      213: -5607279224328047781
+    second: Noble_Development_logo-removebg-preview_5
+  - first:
+      213: 6026007021675042746
+    second: Noble_Development_logo-removebg-preview_6
+  - first:
+      213: -8947370708700812609
+    second: Noble_Development_logo-removebg-preview_7
+  - first:
+      213: 7622327871374420580
+    second: Noble_Development_logo-removebg-preview_8
+  - first:
+      213: -6075092265780293933
+    second: Noble_Development_logo-removebg-preview_9
+  - first:
+      213: -8602984842453679892
+    second: Noble_Development_logo-removebg-preview_10
+  - first:
+      213: 1861261870540897235
+    second: Noble_Development_logo-removebg-preview_11
+  - first:
+      213: -65077236155443789
+    second: Noble_Development_logo-removebg-preview_12
+  - first:
+      213: -890920234980517790
+    second: Noble_Development_logo-removebg-preview_13
+  - first:
+      213: -4610396652688715642
+    second: Noble_Development_logo-removebg-preview_14
+  - first:
+      213: -7523486620403738034
+    second: Noble_Development_logo-removebg-preview_15
+  - first:
+      213: -7723815719161478403
+    second: Noble_Development_logo-removebg-preview_16
+  - first:
+      213: 238081030794838934
+    second: Noble_Development_logo-removebg-preview_17
+  - first:
+      213: -8704452018189809208
+    second: Noble_Development_logo-removebg-preview_18
+  - first:
+      213: -8991489627628479390
+    second: Noble_Development_logo-removebg-preview_19
+  - first:
+      213: -7758067629429434422
+    second: Noble_Development_logo-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0aae3f11d718c10800000000000000
+      internalID: 2054060421117812954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac060e95c2973df70800000000000000
+      internalID: 9210838894296195274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca452df7b1a64840800000000000000
+      internalID: 5208027830698724046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42560c126b8d1250800000000000000
+      internalID: 5917038738927931982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 126
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf512aafd19f980800000000000000
+      internalID: -8504733459014091571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 126
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53bf7d0141fe22b0800000000000000
+      internalID: -5607279224328047781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 126
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab753f4857da0a350800000000000000
+      internalID: 6026007021675042746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 126
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2722eebd84d380800000000000000
+      internalID: -8947370708700812609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ae4de60d2f7c960800000000000000
+      internalID: 7622327871374420580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de417085cfe0bba0800000000000000
+      internalID: -6075092265780293933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08a79cdde0c9880800000000000000
+      internalID: -8602984842453679892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbb1935fc784d910800000000000000
+      internalID: 1861261870540897235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59df7399cc81ff0800000000000000
+      internalID: -65077236155443789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26857ce34c0d2a3f0800000000000000
+      internalID: -890920234980517790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 97
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d6dadba49400c0800000000000000
+      internalID: -4610396652688715642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5e66a7c4379790800000000000000
+      internalID: -7523486620403738034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df24dc4a68e7fc490800000000000000
+      internalID: -7723815719161478403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6930944af65dd4300800000000000000
+      internalID: 238081030794838934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94d53f103933780800000000000000
+      internalID: -8704452018189809208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c589792dfc73380800000000000000
+      internalID: -8991489627628479390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noble_Development_logo-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 103
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d664589ec55490800000000000000
+      internalID: -7758067629429434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Noble_Development_logo-removebg-preview_0: 2054060421117812954
+      Noble_Development_logo-removebg-preview_1: 9210838894296195274
+      Noble_Development_logo-removebg-preview_10: -8602984842453679892
+      Noble_Development_logo-removebg-preview_11: 1861261870540897235
+      Noble_Development_logo-removebg-preview_12: -65077236155443789
+      Noble_Development_logo-removebg-preview_13: -890920234980517790
+      Noble_Development_logo-removebg-preview_14: -4610396652688715642
+      Noble_Development_logo-removebg-preview_15: -7523486620403738034
+      Noble_Development_logo-removebg-preview_16: -7723815719161478403
+      Noble_Development_logo-removebg-preview_17: 238081030794838934
+      Noble_Development_logo-removebg-preview_18: -8704452018189809208
+      Noble_Development_logo-removebg-preview_19: -8991489627628479390
+      Noble_Development_logo-removebg-preview_2: 5208027830698724046
+      Noble_Development_logo-removebg-preview_20: -7758067629429434422
+      Noble_Development_logo-removebg-preview_3: 5917038738927931982
+      Noble_Development_logo-removebg-preview_4: -8504733459014091571
+      Noble_Development_logo-removebg-preview_5: -5607279224328047781
+      Noble_Development_logo-removebg-preview_6: 6026007021675042746
+      Noble_Development_logo-removebg-preview_7: -8947370708700812609
+      Noble_Development_logo-removebg-preview_8: 7622327871374420580
+      Noble_Development_logo-removebg-preview_9: -6075092265780293933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

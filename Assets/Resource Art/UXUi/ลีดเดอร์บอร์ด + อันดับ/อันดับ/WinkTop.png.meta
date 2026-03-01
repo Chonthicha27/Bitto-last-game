@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: b3acd8f8e20854445bde1b85c97e0d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791693521703219729
+    second: WinkTop_0
+  - first:
+      213: 2476716255754005794
+    second: WinkTop_1
+  - first:
+      213: -3155218267887477631
+    second: WinkTop_2
+  - first:
+      213: -3920412499890601522
+    second: WinkTop_3
+  - first:
+      213: -6751221636972929018
+    second: WinkTop_4
+  - first:
+      213: 9121742674160066344
+    second: WinkTop_5
+  - first:
+      213: -236789841612896031
+    second: WinkTop_6
+  - first:
+      213: 6230015132560778138
+    second: WinkTop_7
+  - first:
+      213: 7018446195963581283
+    second: WinkTop_8
+  - first:
+      213: 683216756893568074
+    second: WinkTop_9
+  - first:
+      213: 8722642523474717490
+    second: WinkTop_10
+  - first:
+      213: -123889703742205466
+    second: WinkTop_11
+  - first:
+      213: 5638898500848748554
+    second: WinkTop_12
+  - first:
+      213: 3984070208470420397
+    second: WinkTop_13
+  - first:
+      213: 1311495501743223101
+    second: WinkTop_14
+  - first:
+      213: 1799466502717121018
+    second: WinkTop_15
+  - first:
+      213: 7623732238079616866
+    second: WinkTop_16
+  - first:
+      213: 6247565399706641645
+    second: WinkTop_17
+  - first:
+      213: 96337519455987740
+    second: WinkTop_18
+  - first:
+      213: -2104151382651356457
+    second: WinkTop_19
+  - first:
+      213: 5690528071654086462
+    second: WinkTop_20
+  - first:
+      213: 5250810711254899625
+    second: WinkTop_21
+  - first:
+      213: 7797546403688290533
+    second: WinkTop_22
+  - first:
+      213: 2415059093216368466
+    second: WinkTop_23
+  - first:
+      213: 1370733468623554997
+    second: WinkTop_24
+  - first:
+      213: 6804074720220039948
+    second: WinkTop_25
+  - first:
+      213: -5165244712300316488
+    second: WinkTop_26
+  - first:
+      213: 778295436411648799
+    second: WinkTop_27
+  - first:
+      213: 8555043798952104961
+    second: WinkTop_28
+  - first:
+      213: 2359281743531776061
+    second: WinkTop_29
+  - first:
+      213: -4736993201539608258
+    second: WinkTop_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WinkTop_0
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 886
+        width: 134
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123d01829a306050800000000000000
+      internalID: 5791693521703219729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_1
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1046
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d27a9ff401f5220800000000000000
+      internalID: 2476716255754005794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_2
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 945
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5eb1d3b96634d0800000000000000
+      internalID: -3155218267887477631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 953
+        width: 134
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec105034a95e799c0800000000000000
+      internalID: -3920412499890601522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_4
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1066
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002c40d0b7de42a0800000000000000
+      internalID: -6751221636972929018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1028
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f15d112a0f69e70800000000000000
+      internalID: 9121742674160066344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 945
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80e34c4e0c6bcf0800000000000000
+      internalID: -236789841612896031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1020
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e79941c5757650800000000000000
+      internalID: 6230015132560778138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 879
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d99141a7866160800000000000000
+      internalID: 7018446195963581283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 979
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c4c3345064b7900800000000000000
+      internalID: 683216756893568074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_10
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 982
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b6d6a192d0d0970800000000000000
+      internalID: 8722642523474717490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 933
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11e1988fad74ef0800000000000000
+      internalID: -123889703742205466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 927
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0882937f44614e40800000000000000
+      internalID: 5638898500848748554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_13
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 910
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab88100fb24a4730800000000000000
+      internalID: 3984070208470420397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_14
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 936
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317de1d53e533210800000000000000
+      internalID: 1311495501743223101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 803
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12baf004df8f810800000000000000
+      internalID: 1799466502717121018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 886
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ed690410fcc960800000000000000
+      internalID: 7623732238079616866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 844
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4298841afc3b650800000000000000
+      internalID: 6247565399706641645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_18
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 907
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1867b9a672465100800000000000000
+      internalID: 96337519455987740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_19
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 873
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3b6b377d8cc2e0800000000000000
+      internalID: -2104151382651356457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 862
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e379457a121d8fe40800000000000000
+      internalID: 5690528071654086462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 864
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1a2b9580aed840800000000000000
+      internalID: 5250810711254899625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 821
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e817771423763c60800000000000000
+      internalID: 7797546403688290533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 869
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2571db22373048120800000000000000
+      internalID: 2415059093216368466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_24
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 858
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9cb07c3d2d50310800000000000000
+      internalID: 1370733468623554997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 807
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4ee398edec6e50800000000000000
+      internalID: 6804074720220039948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 840
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ff510d4d5158b0800000000000000
+      internalID: -5165244712300316488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 806
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bbf99639f0dca00800000000000000
+      internalID: 778295436411648799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 742
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d272320f99b670800000000000000
+      internalID: 8555043798952104961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 779
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389648ee3addb020800000000000000
+      internalID: 2359281743531776061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinkTop_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 769
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319ac6e7c1d24eb0800000000000000
+      internalID: -4736993201539608258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WinkTop_0: 5791693521703219729
+      WinkTop_1: 2476716255754005794
+      WinkTop_10: 8722642523474717490
+      WinkTop_11: -123889703742205466
+      WinkTop_12: 5638898500848748554
+      WinkTop_13: 3984070208470420397
+      WinkTop_14: 1311495501743223101
+      WinkTop_15: 1799466502717121018
+      WinkTop_16: 7623732238079616866
+      WinkTop_17: 6247565399706641645
+      WinkTop_18: 96337519455987740
+      WinkTop_19: -2104151382651356457
+      WinkTop_2: -3155218267887477631
+      WinkTop_20: 5690528071654086462
+      WinkTop_21: 5250810711254899625
+      WinkTop_22: 7797546403688290533
+      WinkTop_23: 2415059093216368466
+      WinkTop_24: 1370733468623554997
+      WinkTop_25: 6804074720220039948
+      WinkTop_26: -5165244712300316488
+      WinkTop_27: 778295436411648799
+      WinkTop_28: 8555043798952104961
+      WinkTop_29: 2359281743531776061
+      WinkTop_3: -3920412499890601522
+      WinkTop_30: -4736993201539608258
+      WinkTop_4: -6751221636972929018
+      WinkTop_5: 9121742674160066344
+      WinkTop_6: -236789841612896031
+      WinkTop_7: 6230015132560778138
+      WinkTop_8: 7018446195963581283
+      WinkTop_9: 683216756893568074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

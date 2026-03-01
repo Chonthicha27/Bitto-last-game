@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Homepage.unity
+    guid: 85ab0d1cded3f354da3c45d4393146dd
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: b736d2c7dfcb4014183f62966dfb62f3
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: a0bcb75b8cdf7484499661b9c1ff6540
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 270f1b039bc0b7d498541c7b72bf797e
+  - enabled: 0
+    path: Assets/Scenes TastMuit/TastMuit.unity
+    guid: 1d20f7ea0bf45f4468f2c08a6d821806
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 94280f789d2668d4a94d4757ab0d86b6, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 57c92bc4e1803c345a39eb6b054f4be4, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 5727553417a7519408dd37cb1b082822, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: daf056e89c371b4428d64e02512c8e5a, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: d7bbc25a3bc6bd94fb6aa3d3ecb3040c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

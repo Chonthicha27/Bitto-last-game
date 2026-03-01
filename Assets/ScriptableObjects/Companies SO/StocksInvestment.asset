@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d672af2e0092b6468942291615261b1, type: 3}
+  m_Name: StocksInvestment
+  m_EditorClassIdentifier: 
+  companyName: StocksInvestment
+  descriptionAssets: "\u0E01\u0E32\u0E23\u0E16\u0E37\u0E2D\u0E04\u0E23\u0E2D\u0E07\u0E2A\u0E48\u0E27\u0E19\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E02\u0E2D\u0E07\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\n\u0E21\u0E35\u0E01\u0E33\u0E44\u0E23\u0E08\u0E32\u0E01\u0E23\u0E32\u0E04\u0E32\u0E2B\u0E38\u0E49\u0E19\u0E02\u0E36\u0E49\u0E19\u0E41\u0E25\u0E30\u0E40\u0E07\u0E34\u0E19\u0E1B\u0E31\u0E19\u0E1C\u0E25\n\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E01\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E25\u0E07\u0E17\u0E38\u0E19\u0E23\u0E30\u0E22\u0E30\u0E01\u0E25\u0E32\u0E07\u0E16\u0E36\u0E07\u0E22\u0E32\u0E27"
+  companyIcon: {fileID: 8783444890334023076, guid: 06dc197adc615bb4b88dc3b55c61d871, type: 3}
+  goodEvents:
+  - marketEventTopicText: "\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C\u0E40\u0E1C\u0E22\u0E1C\u0E25\u0E01\u0E33\u0E44\u0E23\u0E40\u0E01\u0E34\u0E19\u0E04\u0E32\u0E14!"
+    description: "\u0E23\u0E32\u0E04\u0E32\u0E2B\u0E38\u0E49\u0E19\u0E17\u0E35\u0E48\u0E16\u0E37\u0E2D\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E02\u0E36\u0E49\u0E19\u0E17\u0E31\u0E19\u0E17\u0E35
+      12%"
+    flavorText: "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\u0E48\u0E22\u0E07\u0E15\u0E48\u0E2D\u0E1C\u0E25\u0E15\u0E2D\u0E1A\u0E41\u0E17\u0E19\u0E41\u0E25\u0E49\u0E27\n\u0E2B\u0E38\u0E49\u0E19\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E19\u0E42\u0E0B\u0E19\u0E17\u0E35\u0E48\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E2A\u0E21\u0E15\u0E48\u0E2D\u0E01\u0E32\u0E23\u0E25\u0E07\u0E17\u0E38\u0E19"
+    priceChange: 12
+    eventIcon: {fileID: 21300000, guid: fdd9c11e533491e43b8f4d3f28260de3, type: 3}
+    targetMode: 0
+    targetIndices: 
+    targetNames: []
+    randomCount: 1
+  - marketEventTopicText: "Meta\u0E1B\u0E25\u0E48\u0E2D\u0E22\u0E41\u0E2D\u0E1B \u0E43\u0E2B\u0E21\u0E48\u0E41\u0E02\u0E48\u0E07\u0E01\u0E31\u0E1A
+      Twitter"
+    description: "\u0E2B\u0E38\u0E49\u0E19\u0E40\u0E17\u0E04\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E01\u0E33\u0E44\u0E23
+      7%"
+    flavorText: "\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E13\u0E42\u0E21\u0E40\u0E21\u0E19\u0E15\u0E31\u0E21\u0E02\u0E2D\u0E07\u0E2B\u0E38\u0E49\u0E19\u0E1C\u0E48\u0E32\u0E19\u0E40\u0E01\u0E13\u0E11\u0E4C\n\u0E40\u0E2B\u0E21\u0E32\u0E30\u0E01\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E25\u0E07\u0E17\u0E38\u0E19\u0E40\u0E1E\u0E34\u0E48\u0E21"
+    priceChange: 7
+    eventIcon: {fileID: 21300000, guid: 1b65234ce91cf3246a35c99b183f3dfb, type: 3}
+    targetMode: 2
+    targetIndices: 
+    targetNames:
+    - DELTA
+    - ADVANC
+    - TRUE
+    randomCount: 1
+  badEvents:
+  - marketEventTopicText: "\u0E02\u0E48\u0E32\u0E27\u0E09\u0E32\u0E27\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17!
+      \u0E1C\u0E39\u0E49\u0E1A\u0E23\u0E34\u0E2B\u0E32\u0E23\u0E17\u0E38\u0E08\u0E23\u0E34\u0E15"
+    description: "\u0E23\u0E32\u0E04\u0E32\u0E2B\u0E38\u0E49\u0E19\u0E25\u0E14\u0E25\u0E07
+      10%"
+    flavorText: "\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E25\u0E48\u0E32\u0E2A\u0E38\u0E14\u0E0A\u0E35\u0E49\u0E27\u0E48\u0E32\u0E41\u0E23\u0E07\u0E0B\u0E37\u0E49\u0E2D\u0E2D\u0E48\u0E2D\u0E19\u0E01\u0E33\u0E25\u0E31\u0E07\u0E25\u0E07\u0E21\u0E32\u0E01\u0E2B\u0E38\u0E49\u0E19\u0E40\u0E2A\u0E35\u0E48\u0E22\u0E07\u0E44\u0E2B\u0E25\u0E25\u0E07
+      \u0E04\u0E27\u0E23\u0E16\u0E2D\u0E22\u0E2D\u0E2D\u0E01\u0E1A\u0E32\u0E07\u0E2A\u0E48\u0E27\u0E19"
+    priceChange: -10
+    eventIcon: {fileID: 21300000, guid: 793b86939a170c3429eff77b0e6e891d, type: 3}
+    targetMode: 0
+    targetIndices: 
+    targetNames:
+    - PTT
+    randomCount: 1
+  - marketEventTopicText: "\u0E40\u0E2A\u0E35\u0E22\u0E07\u0E1B\u0E37\u0E19\u0E2A\u0E30\u0E40\u0E17\u0E37\u0E2D\u0E19
+      \u0E15\u0E25\u0E32\u0E14"
+    description: "\u0E23\u0E32\u0E04\u0E32\u0E2B\u0E38\u0E49\u0E19\u0E25\u0E14\u0E25\u0E07
+      12%"
+    flavorText: "\u0E41\u0E19\u0E27\u0E23\u0E31\u0E1A\u0E2B\u0E25\u0E31\u0E01\u0E40\u0E23\u0E34\u0E48\u0E21\u0E2D\u0E48\u0E2D\u0E19\u0E15\u0E31\u0E27\u0E2B\u0E32\u0E01\u0E2B\u0E38\u0E49\u0E19\u0E2B\u0E25\u0E38\u0E14\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E19\u0E35\u0E49
+      \u0E04\u0E27\u0E23\u0E17\u0E22\u0E2D\u0E22\u0E02\u0E32\u0E22\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E25\u0E14\u0E1C\u0E25\u0E01\u0E23\u0E30\u0E17\u0E1A"
+    priceChange: -12
+    eventIcon: {fileID: 21300000, guid: 3111a1ad180a95243925a8bfff3689d9, type: 3}
+    targetMode: 0
+    targetIndices: 
+    targetNames: []
+    randomCount: 1
+  subAssets:
+  - assetName: DELTA
+    assetNameAbbreviation: DELTA
+    currentPrice: 71.5
+    minPrice: -9.84
+    maxPrice: 16.57
+    assetIcon: {fileID: 21300000, guid: abcb7241ef2398d499b6a1512c90c02d, type: 3}
+    typesOfAssets: "\u0E40\u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35"
+    description: "\u0E1C\u0E39\u0E49\u0E1C\u0E25\u0E34\u0E15\u0E2D\u0E38\u0E1B\u0E01\u0E23\u0E13\u0E4C\u0E2D\u0E34\u0E40\u0E25\u0E47\u0E01\u0E17\u0E23\u0E2D\u0E19\u0E34\u0E01\u0E2A\u0E4C\u0E41\u0E25\u0E30\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"
+    risk: 1
+  - assetName: PTT
+    assetNameAbbreviation: PTT
+    currentPrice: 33.25
+    minPrice: -6.8
+    maxPrice: 9.8
+    assetIcon: {fileID: 21300000, guid: b4b615060d47db240a51e2401e164781, type: 3}
+    typesOfAssets: "\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"
+    description: "\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19\u0E41\u0E2B\u0E48\u0E07\u0E0A\u0E32\u0E15\u0E34\u0E02\u0E2D\u0E07\u0E44\u0E17\u0E22
+      \u0E04\u0E23\u0E2D\u0E1A\u0E04\u0E25\u0E38\u0E21\u0E18\u0E38\u0E23\u0E01\u0E34\u0E08\u0E19\u0E49\u0E33\u0E21\u0E31\u0E19\u0E41\u0E25\u0E30\u0E01\u0E4A\u0E32\u0E0B"
+    risk: 1
+  - assetName: ADVANC
+    assetNameAbbreviation: ADVANC
+    currentPrice: 226
+    minPrice: -8.34
+    maxPrice: 13.56
+    assetIcon: {fileID: 21300000, guid: c874cd6a1c623ed4ea25406e4ac2641f, type: 3}
+    typesOfAssets: "\u0E42\u0E17\u0E23\u0E04\u0E21\u0E19\u0E32\u0E04\u0E21"
+    description: "\u0E1C\u0E39\u0E49\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E42\u0E17\u0E23\u0E04\u0E21\u0E19\u0E32\u0E04\u0E21\u0E23\u0E32\u0E22\u0E43\u0E2B\u0E0D\u0E48\u0E43\u0E19\u0E44\u0E17\u0E22
+      (AIS)"
+    risk: 1
+  - assetName: AOT
+    assetNameAbbreviation: AOT
+    currentPrice: 64.75
+    minPrice: -8.9
+    maxPrice: 11.2
+    assetIcon: {fileID: 21300000, guid: 78f950b8da0eb054c94618bf7735981b, type: 3}
+    typesOfAssets: "\u0E02\u0E19\u0E2A\u0E48\u0E07"
+    description: "\u0E1C\u0E39\u0E49\u0E1A\u0E23\u0E34\u0E2B\u0E32\u0E23\u0E2A\u0E19\u0E32\u0E21\u0E1A\u0E34\u0E19\u0E2B\u0E25\u0E31\u0E01\u0E02\u0E2D\u0E07\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28"
+    risk: 1
+  - assetName: GULF
+    assetNameAbbreviation: GULF
+    currentPrice: 49.25
+    minPrice: -11.53
+    maxPrice: 14.44
+    assetIcon: {fileID: 21300000, guid: aabac9951b9a93246babbbb6afbd4193, type: 3}
+    typesOfAssets: "\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"
+    description: "\u0E1C\u0E39\u0E49\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E41\u0E25\u0E30\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E18\u0E38\u0E23\u0E01\u0E34\u0E08\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19\u0E44\u0E1F\u0E1F\u0E49\u0E32"
+    risk: 1
+  - assetName: CPALL
+    assetNameAbbreviation: CPALL
+    currentPrice: 59.75
+    minPrice: -12.58
+    maxPrice: 14.64
+    assetIcon: {fileID: 21300000, guid: a90c8d5501afe044cb605bdfe8286c2f, type: 3}
+    typesOfAssets: "\u0E04\u0E49\u0E32\u0E1B\u0E25\u0E35\u0E01"
+    description: "\u0E1C\u0E39\u0E49\u0E1A\u0E23\u0E34\u0E2B\u0E32\u0E23\u0E23\u0E49\u0E32\u0E19\u0E2A\u0E30\u0E14\u0E27\u0E01\u0E0B\u0E37\u0E49\u0E2D
+      7-Eleven \u0E41\u0E25\u0E30\u0E18\u0E38\u0E23\u0E01\u0E34\u0E08\u0E04\u0E49\u0E32\u0E1B\u0E25\u0E35\u0E01\u0E43\u0E19\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E0B\u0E35\u0E1E\u0E35"
+    risk: 1
+  - assetName: PTTEP
+    assetNameAbbreviation: PTTEP
+    currentPrice: 165
+    minPrice: -11.53
+    maxPrice: 13.23
+    assetIcon: {fileID: 21300000, guid: 6ca9a17eadd7b5f4ca2a1f8cb8aaf24e, type: 3}
+    typesOfAssets: "\u0E1E\u0E25\u0E31\u0E07\u0E07\u0E32\u0E19"
+    description: "\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E2A\u0E33\u0E23\u0E27\u0E08\u0E41\u0E25\u0E30\u0E1C\u0E25\u0E34\u0E15\u0E1B\u0E34\u0E42\u0E15\u0E23\u0E40\u0E25\u0E35\u0E22\u0E21\u0E43\u0E19\u0E40\u0E04\u0E23\u0E37\u0E2D
+      \u0E1B\u0E15\u0E17."
+    risk: 1
+  - assetName: SCB
+    assetNameAbbreviation: SCB
+    currentPrice: 120
+    minPrice: -5.77
+    maxPrice: 9.93
+    assetIcon: {fileID: 21300000, guid: beccf502dd6813148b70b52b172659f1, type: 3}
+    typesOfAssets: "\u0E18\u0E19\u0E32\u0E04\u0E32\u0E23"
+    description: "\u0E18\u0E19\u0E32\u0E04\u0E32\u0E23\u0E44\u0E17\u0E22\u0E1E\u0E32\u0E13\u0E34\u0E0A\u0E22\u0E4C
+      \u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E01\u0E32\u0E23\u0E40\u0E07\u0E34\u0E19\u0E04\u0E23\u0E1A\u0E27\u0E07\u0E08\u0E23"
+    risk: 1
+  - assetName: BDMS
+    assetNameAbbreviation: BDMS
+    currentPrice: 28.75
+    minPrice: -7.2
+    maxPrice: 10.24
+    assetIcon: {fileID: 21300000, guid: c3c42c3c35681a746a7e30f1e52fc368, type: 3}
+    typesOfAssets: "\u0E42\u0E23\u0E07\u0E1E\u0E22\u0E32\u0E1A\u0E32\u0E25"
+    description: "\u0E1C\u0E39\u0E49\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E42\u0E23\u0E07\u0E1E\u0E22\u0E32\u0E1A\u0E32\u0E25\u0E40\u0E2D\u0E01\u0E0A\u0E19\u0E23\u0E32\u0E22\u0E43\u0E2B\u0E0D\u0E48"
+    risk: 1
+  - assetName: TRUE
+    assetNameAbbreviation: TRUE
+    currentPrice: 8.85
+    minPrice: -11.3
+    maxPrice: 12.4
+    assetIcon: {fileID: 21300000, guid: 41a5b0aaad8f66649a06129454b8d9e4, type: 3}
+    typesOfAssets: "\u0E42\u0E17\u0E23\u0E04\u0E21\u0E19\u0E32\u0E04\u0E21"
+    description: "\u0E1C\u0E39\u0E49\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E42\u0E17\u0E23\u0E04\u0E21\u0E19\u0E32\u0E04\u0E21\u0E41\u0E25\u0E30\u0E2D\u0E34\u0E19\u0E40\u0E17\u0E2D\u0E23\u0E4C\u0E40\u0E19\u0E47\u0E15\u0E23\u0E32\u0E22\u0E43\u0E2B\u0E0D\u0E48\u0E43\u0E19\u0E44\u0E17\u0E22"
+    risk: 1
+  companyType: 0

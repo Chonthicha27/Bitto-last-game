@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963e29cf0863c544e9e5cdfd5ca3953f, type: 3}
+  m_Name: CompanyLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::InvestmentCompanyLibrary
+  companies:
+  - {fileID: 11400000, guid: e71fa1b7f10c7184fa2d00ff60eb340f, type: 2}
+  - {fileID: 11400000, guid: 5920d7f0503490c45964d4d2615eb794, type: 2}
+  - {fileID: 11400000, guid: ea8034164765dfa4c8c41f708a715f20, type: 2}
+  - {fileID: 11400000, guid: 3ca18c6add1719c43a88a0a44e3633e6, type: 2}
+  - {fileID: 11400000, guid: 82619979d5c38224cb236b7dfa0e70a8, type: 2}

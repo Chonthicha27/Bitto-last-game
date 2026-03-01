@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: fdd9c11e533491e43b8f4d3f28260de3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1757652372140562890
+    second: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_0"
+  - first:
+      213: -1036387058873436631
+    second: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_1"
+  - first:
+      213: -1237435377625017460
+    second: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_2"
+  - first:
+      213: 3942714896283059080
+    second: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_3"
+  - first:
+      213: 5818866462095991584
+    second: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_0"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 967
+        width: 276
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63660ffda709b97e0800000000000000
+      internalID: -1757652372140562890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_1"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1267
+        width: 424
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926790206730e91f0800000000000000
+      internalID: -1036387058873436631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_2"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 196
+        width: 1195
+        height: 1426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d82c841fb3dee0800000000000000
+      internalID: -1237435377625017460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_3"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1237
+        width: 451
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c79b0f4657b630800000000000000
+      internalID: 3942714896283059080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_4"
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 524
+        width: 250
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236aa4b734c0c050800000000000000
+      internalID: 5818866462095991584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_0": -1757652372140562890
+      "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_1": -1036387058873436631
+      "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_2": -1237435377625017460
+      "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_3": 3942714896283059080
+      "Stock_GoodEvent_\u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17\u0E22\u0E31\u0E01\u0E29\u0E4C_4": 5818866462095991584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
